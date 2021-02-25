@@ -1,0 +1,13 @@
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\bin\Debug\netcoreapp3.1\appTestIntereses.exe
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\bin\Debug\netcoreapp3.1\appTestIntereses.deps.json
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\bin\Debug\netcoreapp3.1\appTestIntereses.runtimeconfig.json
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\bin\Debug\netcoreapp3.1\appTestIntereses.runtimeconfig.dev.json
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\bin\Debug\netcoreapp3.1\appTestIntereses.dll
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\bin\Debug\netcoreapp3.1\appTestIntereses.pdb
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\obj\Debug\netcoreapp3.1\appTestIntereses.csprojAssemblyReference.cache
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\obj\Debug\netcoreapp3.1\appTestIntereses.AssemblyInfoInputs.cache
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\obj\Debug\netcoreapp3.1\appTestIntereses.AssemblyInfo.cs
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\obj\Debug\netcoreapp3.1\appTestIntereses.csproj.CoreCompileInputs.cache
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\obj\Debug\netcoreapp3.1\appTestIntereses.dll
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\obj\Debug\netcoreapp3.1\appTestIntereses.pdb
+C:\Users\rafael.beltran\source\repos\appTestIntereses\appTestIntereses\obj\Debug\netcoreapp3.1\appTestIntereses.genruntimeconfig.cache
